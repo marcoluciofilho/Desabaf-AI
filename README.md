@@ -9,6 +9,24 @@ Desabafo Anônimo e Conversa Rápida: Os usuários podem compartilhar seus senti
 
 Detecção de Estado Crítico: A IA para Apoio Emocional utiliza a API da IA Gemini para analisar o conteúdo compartilhado pelos usuários e determinar seu estado emocional. Quando detecta que um usuário está em um estado emocional crítico, ela oferece recomendações e recursos para procurar ajuda profissional. Importante notar que ela não 
 
+### Resultado prático
+
+Print dos resultados de uma conversa de testes com a IA
+
+<div>
+    <img src="Preparação_da_I.A.png" width="600" height="300">
+    <p>Preparação</p>
+</div>
+<div>
+    <img src="Começo_da_Conversa_Teste.png" width="800" height="400">
+    <p>Coomeço da conversa</p>
+</div>
+<div>
+    <img src="Final_da_Conversa_Teste.png" width="800" height="300">
+    <p>Final da conversa</p>
+</div>
+
+
 ### Autor
 
 - [Marco Lúcio Morastoni Leiteinski Filho](https://github.com/marcomorastoni)
