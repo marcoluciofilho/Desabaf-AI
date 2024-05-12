@@ -14,16 +14,17 @@ Detecção de Estado Crítico: A IA para Apoio Emocional utiliza a API da IA Gem
 Print dos resultados de uma conversa de testes com a IA
 
 <div>
+    <h2>Preparação</h2>
     <img src="Preparação_da_I.A.png" width="600" height="300">
-    <p>Preparação</p>
+    
 </div>
 <div>
+    <h2>Começo da conversa</h2>
     <img src="Começo_da_Conversa_Teste.png" width="800" height="400">
-    <p>Coomeço da conversa</p>
 </div>
 <div>
+     <h2>Final da conversa</h2>
     <img src="Final_da_Conversa_Teste.png" width="800" height="300">
-    <p>Final da conversa</p>
 </div>
 
 
