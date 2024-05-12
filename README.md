@@ -7,7 +7,7 @@ Este projeto foi desenvolvido utilizando Jupyter e Google Colab. O Google Colab 
 ### Funcionalidades Principais
 Desabafo Anônimo e Conversa Rápida: Os usuários podem compartilhar seus sentimentos e preocupações de forma anônima e conversar com a IA psicóloga de forma rápida e eficiente, recebendo suporte emocional.
 
-Detecção de Estado Crítico: A IA para Apoio Emocional utiliza a API da IA Gemini para analisar o conteúdo compartilhado pelos usuários e determinar seu estado emocional. Quando detecta que um usuário está em um estado emocional crítico, ela oferece recomendações e recursos para procurar ajuda profissional. Importante notar que ela não 
+Detecção de Estado Crítico: A IA para Apoio Emocional utiliza a API da IA Gemini para analisar o conteúdo compartilhado pelos usuários e determinar seu estado emocional. Quando detecta que um usuário está em um estado emocional crítico, ela oferece recomendações e recursos para procurar ajuda profissional. Importante notar que ela não substitue o profissional de forma alguma, mas confere uma assistente para ajudar. Assim sendo, entendemos a Desabaf-AI como uma poderosa ferramenta de democratização da saúde mental, visto que tal saúde, um tanto quanto elitizada, não só é cara como de díficil acesso a grande parte da população brasileira.
 
 ### Resultado prático
 
