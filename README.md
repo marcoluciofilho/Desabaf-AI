@@ -1,7 +1,4 @@
-### IA para Apoio Emocional - Projeto Desabaf-AI <div>
-    <img src="images.png" width="100" height="100">
-    <p>IA Psicóloga - Projeto DesabafAR</p>
-</div>
+### IA para Apoio Emocional - Projeto Desabaf-AI 
 Este é o repositório do projeto Desabaf-AI, desenvolvido como parte do Intensivão de Produção de Projetos com Inteligência Artificial da Alura. O objetivo principal deste projeto é fornecer uma plataforma onde os usuários podem desabafar anonimamente e conversar com uma IA de forma rápida e eficiente. Além disso, a IA é capaz de detectar estados emocionais críticos nos usuários e recomendar a busca por um profissional de saúde mental quando necessário.
 
 ###  Desenvolvimento
