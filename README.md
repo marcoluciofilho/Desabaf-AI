@@ -1,4 +1,4 @@
-### IA para apoio emocional - Projeto Desabaf-AI
+### IA para Apoio Emocional - Projeto Desabaf-AI
 Este é o repositório do projeto Desabaf-AI, desenvolvido como parte do Intensivão de Produção de Projetos com Inteligência Artificial da Alura. O objetivo principal deste projeto é fornecer uma plataforma onde os usuários podem desabafar anonimamente e conversar com uma IA de forma rápida e eficiente. Além disso, a IA é capaz de detectar estados emocionais críticos nos usuários e recomendar a busca por um profissional de saúde mental quando necessário.
 
 ###  Desenvolvimento
@@ -7,7 +7,7 @@ Este projeto foi desenvolvido utilizando Jupyter e Google Colab. O Google Colab 
 ### Funcionalidades Principais
 Desabafo Anônimo e Conversa Rápida: Os usuários podem compartilhar seus sentimentos e preocupações de forma anônima e conversar com a IA psicóloga de forma rápida e eficiente, recebendo suporte emocional.
 
-Detecção de Estado Crítico: A IA psicóloga utiliza a API da IA Gemini para analisar o conteúdo compartilhado pelos usuários e determinar seu estado emocional. Quando detecta que um usuário está em um estado emocional crítico, ela oferece recomendações e recursos para procurar ajuda profissional.
+Detecção de Estado Crítico: A IA para Apoio Emocional utiliza a API da IA Gemini para analisar o conteúdo compartilhado pelos usuários e determinar seu estado emocional. Quando detecta que um usuário está em um estado emocional crítico, ela oferece recomendações e recursos para procurar ajuda profissional. Importante notar que ela não 
 
 ### Autor
 
