@@ -1,5 +1,5 @@
-### IA Psicóloga - Projeto DesabafAR
-Este é o repositório do projeto DesabafAR, desenvolvido como parte do Intensivão de Produção de Projetos com Inteligência Artificial da Alura. O objetivo principal deste projeto é fornecer uma plataforma onde os usuários podem desabafar anonimamente e conversar com uma IA psicóloga de forma rápida e eficiente. Além disso, a IA é capaz de detectar estados emocionais críticos nos usuários e recomendar a busca por um profissional de saúde mental quando necessário.
+### IA Psicóloga - Projeto Desabaf-AI
+Este é o repositório do projeto Desabaf-AI, desenvolvido como parte do Intensivão de Produção de Projetos com Inteligência Artificial da Alura. O objetivo principal deste projeto é fornecer uma plataforma onde os usuários podem desabafar anonimamente e conversar com uma IA psicóloga de forma rápida e eficiente. Além disso, a IA é capaz de detectar estados emocionais críticos nos usuários e recomendar a busca por um profissional de saúde mental quando necessário.
 
 ###  Desenvolvimento
 Este projeto foi desenvolvido utilizando Python e Google Colab. O Google Colab foi utilizado para o desenvolvimento e implementação da integração com a API da IA Gemini. A IA Gemini é uma ferramenta poderosa de análise de texto que oferece recursos avançados de processamento de linguagem natural. Neste projeto, ela foi utilizada para fornecer suporte emocional aos usuários e detectar estados emocionais críticos.
@@ -11,7 +11,7 @@ Detecção de Estado Crítico: A IA psicóloga utiliza a API da IA Gemini para a
 
 ### Autor
 
-- [Marco Lúcio Morastoni Leiteinsk Filgo](https://github.com/marcomorastoni)
+- [Marco Lúcio Morastoni Leiteinski Filho](https://github.com/marcomorastoni)
 
-Este projeto foi desenvolvido como parte do Intensivão de Produção de Projetos com Inteligência Artificial da Alura, sob a orientação de instrutores qualificados.
+Este projeto foi desenvolvido como parte do Intensivão de Produção de Projetos com Inteligência Artificial da Alura.
 
